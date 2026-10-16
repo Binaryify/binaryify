@@ -1,7 +1,7 @@
 
 
 ### Hi, I'm Binaryify👋
->I am a frontEnd web developer from China.
+>I am a Full-Stack/Reverse Engineer from China.
 
 🔗 https://binaryify.github.io/
 
