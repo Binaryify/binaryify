@@ -12,18 +12,14 @@
 
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,vue,react,swift,go,linux&theme=dark" alt="Skills" />
 
-<br /><br />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Binaryify&show_icons=true&theme=transparent&hide_border=true&disable_animations=true&ring_color=58A6FF&rank_icon=github&title_color=58A6FF&icon_color=58A6FF&text_color=e6edf3" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Binaryify&show_icons=true&theme=transparent&hide_border=true&disable_animations=true&ring_color=0969da&rank_icon=github&title_color=0969da&icon_color=0969da&text_color=1f2328" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Binaryify&show_icons=true&theme=transparent&hide_border=true&disable_animations=true&ring_color=0969da&rank_icon=github&title_color=0969da&icon_color=0969da&text_color=1f2328" alt="GitHub Stats" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Binaryify&layout=compact&theme=transparent&hide_border=true&langs_count=8&disable_animations=true&title_color=58A6FF&text_color=e6edf3" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binaryify&layout=compact&theme=transparent&hide_border=true&langs_count=8&disable_animations=true&title_color=0969da&text_color=1f2328" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binaryify&layout=compact&theme=transparent&hide_border=true&langs_count=8&disable_animations=true&title_color=0969da&text_color=1f2328" alt="Top Languages" />
 </picture>
-
-<br />
 
 <a href="https://github.com/Binaryify/NeteaseCloudMusicApi">
   <picture>
